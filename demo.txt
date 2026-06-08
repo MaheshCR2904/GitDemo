@@ -13,3 +13,5 @@ Changes not staged for commit:
 	modified:   demo.txt
 
 no changes added to commit (use "git add" and/or "git commit -a")
+[master 114e64c] today's msg
+ 1 file changed, 12 insertions(+)
