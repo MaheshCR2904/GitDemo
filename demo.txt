@@ -17,3 +17,5 @@ no changes added to commit (use "git add" and/or "git commit -a")
  1 file changed, 12 insertions(+)
 [master 234f13b] today's msg
  1 file changed, 2 insertions(+)
+[master 53816f9] today's msg
+ 1 file changed, 2 insertions(+)
